@@ -1,0 +1,7 @@
+{
+  "name": "BusGo - Premium Bus Reservation",
+  "description": "A comprehensive bus ticket booking platform featuring real-time seat selection, advanced filters, and an AI-powered travel assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
